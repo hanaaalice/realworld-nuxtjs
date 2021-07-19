@@ -4,7 +4,7 @@
     <div class="banner">
       <div class="container">
         <h1 class="logo-font">拉勾教育</h1>
-        <p>A place to help you make more money.</p>
+        <p>A place to help you make more money. Great Firewall NB</p>
       </div>
     </div>
 
